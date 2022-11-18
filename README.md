@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mirza Ahmad Shayer</h1>
 <h3 align="center">A passionate, curious and illustrious individual, who loves Computers, Tech and Software Engineering</h3>
-<img align="right" alt="Software Engineering" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
+<img align="right" alt="Software Engineering" width="300" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mirzaahmadshayer&label=Profile%20views&color=0e75b6&style=flat" alt="mirzaahmadshayer" /> </p>
 
