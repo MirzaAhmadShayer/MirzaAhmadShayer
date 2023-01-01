@@ -5,15 +5,10 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=mirzaahmadshayer&label=Profile%20views&color=0e75b6&style=flat" alt="mirzaahmadshayer" /> </p>
 
 - 🌱 Currently learning **Datacamp Python ML Courses**
-
 - 👨‍💻 All my projects are available at [https://github.com/MirzaAhmadShayer](https://github.com/MirzaAhmadShayer)
-
 - 💬 Ask me about **Python, Java, TensorFlow, skikit-learn, PyTorch**
-
 - 📫 Wish to reach me? **mirzaahmadshayer@gmail.com**
-
 - 📄 Know about my experiences [https://www.linkedin.com/in/mirza-ahmad-shayer-43857624b/](https://www.linkedin.com/in/mirza-ahmad-shayer-43857624b/)
-
 - ⚡ Fun fact **I think I am excessively curious**
 
 <h3 align="center">Connect with me:</h3>
