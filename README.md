@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mirza Ahmad Shayer</h1>
 <h3 align="center">A passionate, curious and illustrious individual, who loves Computers, Tech and Software Engineering</h3>
-<img align="center" alt="Coding" height="400" width="500" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
+<p align="center"><img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" alt="Coding" /></p>
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=mirzaahmadshayer&label=Profile%20views&color=0e75b6&style=flat" alt="mirzaahmadshayer" /> </p>
+<p align="right"><img src="https://komarev.com/ghpvc/?username=mirzaahmadshayer&label=Profile%20views&color=0e75b6&style=flat" alt="mirzaahmadshayer" /></p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mirzaahmadshayer" alt="mirzaahmadshayer" /></a> </p>
 
