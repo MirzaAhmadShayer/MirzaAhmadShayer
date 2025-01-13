@@ -6,7 +6,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mirzaahmadshayer" alt="mirzaahmadshayer" /></a> </p>
 
-- 🌱 Currently learning **HTML and CSS**
+- 🌱 Currently learning **Cybersecurity**
 - 👨‍💻 All my projects are available at [https://github.com/MirzaAhmadShayer](https://github.com/MirzaAhmadShayer)
 - 💬 Ask me about **CSS, HTML, Java, Python, TensorFlow, Ski-kit Learn**
 - 📫 Wish to reach me? **mirzaahmadshayer@gmail.com**
