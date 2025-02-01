@@ -39,5 +39,5 @@
 <div style="display: flex; justify-content: space-between; align-items: right;">
     <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=mirzaahmadshayer&show_icons=true&locale=en&layout=compact" alt="mirzaahmadshayer">
     <img src="https://github-readme-stats.vercel.app/api?username=mirzaahmadshayer&show_icons=true&locale=en" alt="mirzaahmadshayer">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mirzaahmadshayer&" alt="mirzaahmadshayer">
 </div>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mirzaahmadshayer&" alt="mirzaahmadshayer" /></p>
