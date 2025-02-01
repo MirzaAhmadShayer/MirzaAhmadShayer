@@ -37,6 +37,6 @@
 </p>
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
-    <img align = left, height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=mirzaahmadshayer&show_icons=true&locale=en&layout=compact" alt="mirzaahmadshayer">
-    <img align = right, src="https://github-readme-stats.vercel.app/api?username=mirzaahmadshayer&show_icons=true&locale=en" alt="mirzaahmadshayer">
+    <img align = left, height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=mirzaahmadshayer&show_icons=true&locale=en&layout=compact" alt="mirzaahmadshayer">
+    <img align = right, height="180" src="https://github-readme-stats.vercel.app/api?username=mirzaahmadshayer&show_icons=true&locale=en" alt="mirzaahmadshayer">
 </div>
