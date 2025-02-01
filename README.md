@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mirza Ahmad Shayer</h1>
+<h1 align="center">Hello 👋, I'm Mirza Ahmad Shayer</h1>
 <h3 align="center">A passionate, curious and illustrious individual, who loves Computers, Tech and Software Engineering</h3>
 <p align="center"><img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" alt="Coding" /></p>
 
@@ -6,11 +6,10 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mirzaahmadshayer" alt="mirzaahmadshayer" /></a> </p>
 
-- 🌱 Currently learning **Cybersecurity**
 - 👨‍💻 All my projects are available at [https://github.com/MirzaAhmadShayer](https://github.com/MirzaAhmadShayer)
-- 💬 Ask me about **CSS, HTML, Java, Python, TensorFlow, Ski-kit Learn**
-- 📫 Wish to reach me? **mirzaahmadshayer@gmail.com**
-- 📄 Know about my experiences [https://www.linkedin.com/in/mirza-ahmad-shayer-43857624b/](https://www.linkedin.com/in/mirza-ahmad-shayer-43857624b/)
+- 💬 Ask me about **Python, CSS, HTML, Java, TensorFlow, Machine Learning, Artificial Intelligence, Ski-kit Learn**
+- 📫 To reach me? **mirzaahmadshayer@gmail.com** 
+- 📄 To Know about my experiences [https://www.linkedin.com/in/mirza-ahmad-shayer-43857624b/](https://www.linkedin.com/in/mirza-ahmad-shayer-43857624b/)
 - ⚡ Fun fact **I think I am excessively curious**
 
 <h3 align="center">### Connect With Me ###</h3>
