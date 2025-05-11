@@ -7,10 +7,10 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mirzaahmadshayer" alt="mirzaahmadshayer" /></a> </p>
 
 - 👨‍💻 All my projects are available at [https://github.com/MirzaAhmadShayer](https://github.com/MirzaAhmadShayer)
-- 💬 Ask me about **Python, CSS, HTML, Java, TensorFlow, Machine Learning, Artificial Intelligence, Ski-kit Learn**
+- 💬 Ask me about **Python, Java, C#, CSS, HTML, Pytorch, TensorFlow, Artificial Intelligence, Machine Learning, Deep Learning**
 - 📫 To reach me? **mirzaahmadshayer@gmail.com** 
 - 📄 To Know about my experiences [https://www.linkedin.com/in/mirza-ahmad-shayer-43857624b/](https://www.linkedin.com/in/mirza-ahmad-shayer-43857624b/)
-- ⚡ Fun fact **I think I am excessively curious**
+- ⚡ Fun fact **I believe Artificial Wisdom will come to pass**
 
 <h3 align="center">Connect With Me</h3>
 <p align="center">
